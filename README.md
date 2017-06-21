@@ -1,6 +1,6 @@
 # Tools for academic writing
 
----
+
 
 ## Philosophy for choosing tools
 
@@ -12,23 +12,23 @@ http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-usi
 
 http://www.chronicle.com/blogs/profhacker/writing-power-tools-text-editors/38940
 
----
+
 
 ## Tools
 
----
+
 
 ### Related lit
 
 - Reference management: [Zotero](https://www.zotero.org), [Plugins for firefox, chrome, safari](https://www.zotero.org/download/)
 
----
+
 
 ### PDF management and notes
 
 - [Zotfile](http://zotfile.com)
 
----
+
 
 ### Writing
 
@@ -49,7 +49,7 @@ Github private repos for education: https://github.com/blog/1840-improving-githu
 
 - Review: Google Docs
 
----
+
 
 ### Typesetting and publishing
 
@@ -57,13 +57,13 @@ Github private repos for education: https://github.com/blog/1840-improving-githu
 
 better bibtex for zotero: https://github.com/retorquere/zotero-better-bibtex
 
----
+
 
 ### Presentations
 
 - Markdown + [Marp](https://yhatt.github.io/marp/) (or [Remark](https://remarkjs.com/remarkise))
 
----
+
 
 
 
