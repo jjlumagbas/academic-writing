@@ -1,6 +1,7 @@
 # Tools for academic writing
 
 
+## To install
 
 ## Philosophy for choosing tools
 
@@ -12,6 +13,12 @@ http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-usi
 
 http://www.chronicle.com/blogs/profhacker/writing-power-tools-text-editors/38940
 
+- [Zotero](https://www.zotero.org), Zotero browser plugin
+- [Zotero plugins](https://github.com/retorquere/zotero-better-bibtex/wiki/Installation): [Zotfile](https://addons.mozilla.org/firefox/downloads/file/420697/zotfile-4.2.6-fx.xpi?src=dp-btn-primary), [BetterBibTex](https://github.com/retorquere/zotero-better-bibtex/releases/download/1.6.98/zotero-better-bibtex-1.6.98.xpi)
+- [Pandoc](http://pandoc.org/installing.html): [Windows](https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-windows.msi) | [Mac](https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-osx.pkg)
+- [Typora](https://www.typora.io/#download)
+- [Github Desktop](https://desktop.github.com)
+- [Workflowy (Register for an online service)](https://workflowy.com/invite/eb640f.lnx)
 
 
 ## Tools
