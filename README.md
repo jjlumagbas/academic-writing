@@ -15,6 +15,7 @@
   - [Specify a citation style for generated document](#specify-a-citation-style-for-generated-document)
 - [Extras](#extras)
   - [Zotero browser plugins and PDF management with Zotfile](#zotero-browser-plugins-and-pdf-management-with-zotfile)
+  - [Easy publishing online with Markdown and Github Gist](#easy-publishing-online-with-markdown-and-github-gist)
   - [Quick and dirty slides with Markdown and Marp](#quick-and-dirty-slides-with-markdown-and-marp)
   - [Plain-text outlining with Workflowy](#plain-text-outlining-with-workflowy)
   - [Revision tracking with Github Desktop](#revision-tracking-with-github-desktop)
