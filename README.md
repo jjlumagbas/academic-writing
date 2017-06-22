@@ -168,15 +168,15 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 4. Now we have something to preview in Typora! Save your markdown file, and open your file in Typora and see how it recognizes your headings and displays them prettily.
 5. Go back to Notepad and try to annotate some words or phrases as italic (surround the phrase with one asterisk: `*italic phrase*`) and bold (surround the phrase with two asterisks: `**bold phrase**`).
 6. Save and switch back to Typora to preview your work so far.
-7. [Try out other annotations like lists, quotes, footnotes, and tables.](http://programminghistorian.org/lessons/getting-started-with-markdown) Write in Notepad, preview in Typora.
+7. [Try out other annotations like lists, quotes, footnotes, and tables.](http://programminghistorian.org/lessons/getting-started-with-markdown) Write in Notepad, preview in Typora.
 8. Editing hint: you can actually edit your Markdown document in Typora! Click View > Source Code Mode in the Menu bar to see the raw Markdown annotations. Click that again to switch back to Preview mode.
 9. Tables hint: Writing [Markdown tables](http://programminghistorian.org/lessons/getting-started-with-markdown#tables) is a pain (and takes some effort to make pretty in the source file). The easiest way I've found to create tables is this online tool: [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables). Create your tables and copy-paste the generated Markdown into your document.
 
 ### Generate output document (docx, pdf, html) using pandoc
 
-#### Sidebar: Command-line basics
+#### Sidebar: Command-line basics
 
-The best way to execute pandoc at the moment is through the command line. That means you'll have to learn a tiny amount of command-line commands: `pwd` (present working directory), `ls` (list files and folders), and `cd` (change directory).
+The best way to execute pandoc at the moment is through the command line. That means you'll have to learn a tiny amount of command-line commands: `pwd` (present working directory), `ls` (list files and folders), and `cd` (change directory).
 
 1. Fire up your command-line interface: Powershell in Windows and Terminal on a Mac.
 2. Try out `pwd` and `ls` and observe the output.
