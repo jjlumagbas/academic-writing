@@ -95,7 +95,7 @@ The goal of the workshop is to introduce a writing workflow that uses **plain te
 
 - Portable files: can be opened and edited on any computer using any program that can open text files
 - Separation of content and formatting: writing in plain text removes the distraction of deciding on formatting while writing (font, line height, etc.). The goal is to get all writing done first and only then to think of layout decisions.
-- Many output formats from a single source text file: [recently developed tools](http://pandoc.org) can generate many output formats (PDF, docx, odt, html) from the a single text file
+- Many output formats from a single source text file: [recently developed tools](http://pandoc.org) can generate many output formats (PDF, docx, odt, html) from a single text file
 - Automatic generation of inline citations and Bibliography
 - No changes to source file needed when changing citation styles in output document
 
