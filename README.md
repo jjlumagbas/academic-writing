@@ -55,6 +55,7 @@ Github private repos for education: https://github.com/blog/1840-improving-githu
 better bibtex for zotero: https://github.com/retorquere/zotero-better-bibtex
 
 - citation styles: [Zotero citation style repository](https://www.zotero.org/styles)
+- [using Word/ODT templates](https://github.com/jgm/pandoc/wiki/Defining-custom-DOCX-styles-in-LibreOffice-(and-Word))
 
 ### Presentations
 
