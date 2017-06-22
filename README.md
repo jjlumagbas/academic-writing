@@ -1,5 +1,6 @@
 # Tools for academic writing
 
+http://programminghistorian.org/lessons/getting-started-with-markdown
 
 ## To install
 
