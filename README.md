@@ -1,6 +1,27 @@
 # Tools for Academic Writing Workshop
 
-[TOC]
+<!-- TOC START min:1 max:3 link:true update:true -->
+- [Pre-workshop: To install](#pre-workshop-to-install)
+- [Discussion: Writing workflow](#discussion-writing-workflow)
+  - [What's your workflow?](#whats-your-workflow)
+  - [Which scenarios reveal inefficiencies in your current workflow?](#which-scenarios-reveal-inefficiencies-in-your-current-workflow)
+- [Motivation: Plain-text writing workflow](#motivation-plain-text-writing-workflow)
+  - [Advantages](#advantages)
+- [Workshop: Plain-text writing workflow](#workshop-plain-text-writing-workflow)
+  - [Overview](#overview)
+  - [Write paper in Markdown](#write-paper-in-markdown)
+  - [Generate output document (docx, pdf, html) using pandoc](#generate-output-document-docx-pdf-html-using-pandoc)
+  - [Add inline-citations and bibliography](#add-inline-citations-and-bibliography)
+  - [Specify a citation style for generated document](#specify-a-citation-style-for-generated-document)
+- [Extras](#extras)
+  - [Zotero browser plugins and PDF management with Zotfile](#zotero-browser-plugins-and-pdf-management-with-zotfile)
+  - [Quick and dirty slides with Markdown and Marp](#quick-and-dirty-slides-with-markdown-and-marp)
+  - [Plain-text outlining with Workflowy](#plain-text-outlining-with-workflowy)
+  - [Revision tracking with Github Desktop](#revision-tracking-with-github-desktop)
+
+<!-- TOC END -->
+
+
 
 ## Pre-workshop: To install
 
@@ -303,4 +324,4 @@ Here are other things that either support or are enabled by this plain-text cent
 
 ### Plain-text outlining with Workflowy
 
-### Revision tracking with Github Desktop 
+### Revision tracking with Github Desktop
