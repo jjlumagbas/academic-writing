@@ -322,6 +322,8 @@ Here are other things that either support or are enabled by this plain-text cent
 
 ### Quick and dirty slides with Markdown and Marp
 
+### Easy publishing online with Markdown and Github Gist
+
 ### Plain-text outlining with Workflowy
 
 ### Revision tracking with Github Desktop
